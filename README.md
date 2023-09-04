@@ -8,8 +8,11 @@ The exercise session is based on the [Jupyter Notebook](https://github.com/Alber
 We thank Lucrezia Valeriani and Diego Doimo for their help in creating the exercises.
 
 Enjoy!
+
 Alberto and Alessio
 
 Contacts: 
+
 alessio.ansuini@areasciencepark.it 
+
 alberto.cazzaniga@areasciencepark.it
