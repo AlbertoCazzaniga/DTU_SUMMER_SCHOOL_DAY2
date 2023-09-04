@@ -1,4 +1,6 @@
 # Self Supervised Learning Summer School 2023
+# Technical University of Denmark, Copenaghen
+
 ## On the geometry of self-supervised representations via Intrinsic Dimension and Neighborhood Overlap (DAY 2)
 
 Please find attached slides for the [first](https://github.com/AlbertoCazzaniga/DTU_SUMMER_SCHOOL_DAY2/blob/main/ML_Advanced_School_DAY2_PART1.pdf) and [second](https://github.com/AlbertoCazzaniga/DTU_SUMMER_SCHOOL_DAY2/blob/main/ML_Advanced_School_DAY2_PART2.pdf) part of the lectures on the study of the geometry of self-supervised representations.
