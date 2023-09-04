@@ -1,5 +1,5 @@
 # Self Supervised Learning Summer School 2023
-# Technical University of Denmark, Copenaghen
+### Technical University of Denmark, Copenaghen
 
 ## On the geometry of self-supervised representations via Intrinsic Dimension and Neighborhood Overlap (DAY 2)
 
